@@ -108,6 +108,8 @@
 	top: 0;
 	left: 0;
 	cursor: default;
+	overflow: auto;
+	height:35%
 }
 .ui-menu {
 	list-style: none;
