@@ -22,9 +22,9 @@ header {
 }
 
 header h1 {
-    font-size: 70px;
+    font-size: 4vw;
     font-weight: bold;
-    background: linear-gradient(to right,rgb(36, 36, 224),orange);
+    background: linear-gradient(to right,rgb(33 107 70),#af9360);
     width: 75%;    
     margin: auto;
 
@@ -65,8 +65,8 @@ header h1 {
 #search button {
     font-family: inherit;
     font-size: inherit;
-    background-color:rgb(133, 35, 136); 
-    border: 1px solid rgb(92, 24, 80);
+    background-color:rgb(45 71 42); 
+    border: 1px solid rgb(34 68 34);
     border-radius: 3px;
     cursor: pointer;
     color: white;
@@ -81,7 +81,7 @@ header h1 {
 }
 
 #search button:hover {
-    background-color: rgb(100, 29, 95);
+    background-color: rgb(15, 44, 25);
     transition: ease-in-out;
 }
 span{
